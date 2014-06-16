@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2013\Projects\SoftwareTrawlers\MazumaBot\MazumaBot\bin\Debug\MazumaBot.exe.config
